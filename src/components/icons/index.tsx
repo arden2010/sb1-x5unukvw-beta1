@@ -1,0 +1,23 @@
+export {
+  CameraIcon,
+  ClipboardIcon,
+  DocumentIcon,
+  DocumentTextIcon,
+  PhotoIcon,
+  PencilIcon,
+  TrashIcon,
+  XMarkIcon,
+  SparklesIcon,
+  MinusIcon,
+  PlusIcon,
+  ChevronLeftIcon,
+  ChevronRightIcon,
+  MagnifyingGlassIcon,
+  UserCircleIcon,
+  CalendarIcon,
+  HomeIcon,
+  ClipboardDocumentListIcon,
+  TagIcon,
+  Cog6ToothIcon,
+  DocumentArrowUpIcon
+} from '@heroicons/react/24/outline';
